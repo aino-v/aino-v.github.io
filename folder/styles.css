@@ -11,4 +11,10 @@ div.border {
   border-style: dotted 2px;
   border-width: width 100px height 100px;
 }
+ol {
+  list-style-type: lower-alpha;
+}
+ul {
+  list-style-type: square;
+}
 
