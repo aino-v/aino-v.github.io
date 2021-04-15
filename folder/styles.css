@@ -7,7 +7,7 @@ h1 {
 p {
   font-size: 12px; color: #00ff00;
 }
-.div {
+div.laatikko {
   border-style: dotted 2px;
   border-width: width 100px height 100px;
 }
