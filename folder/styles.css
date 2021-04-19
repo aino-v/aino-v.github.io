@@ -1,5 +1,6 @@
 body {
   background-image: url("img_landscape.jpg");
+  Background-repeat: no-repeat;
   background-position: center;
   color: #ffffff;
   text-align:center;
