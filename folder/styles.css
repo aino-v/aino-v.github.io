@@ -22,9 +22,11 @@ div.kuvat {
 ol {
   list-style-type: lower-alpha;
   text-align: center;
+  margin: auto;
 }
 ul {
   list-style-type: square;
   text-align: center;
+  margin: auto;
 }
 
