@@ -35,6 +35,7 @@ a:link {
 a:visited {
   color: #555555;
 }
-a:hover: #000000;
+a:hover {
+  color: #000000;
 }
 
