@@ -1,14 +1,14 @@
 body {
   background-image: url("img_landscape.jpg");
   background-position: center;
-  color: #000000;
+  color: #ffffff;
   text-align:center;
 }
 h1 {
   font-size: 40px;
 }
 p {
-  font-size: 20px; color: #000000;
+  font-size: 20px;
 }
 div.kuvat {
   border-style: dotted;
