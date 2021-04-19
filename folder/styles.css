@@ -8,6 +8,10 @@ body {
 h1 {
   font-size: 40px;
 }
+h2 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #000000;
 p {
   font-size: 20px;
   background-color: #f5e4c6;
