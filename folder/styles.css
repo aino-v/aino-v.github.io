@@ -38,11 +38,11 @@ ul {
   text-align: center;
   margin: auto;
 }
-a:link {
- color: #0000ff;
+a {
+ color: #000000;
 }
 a:hover {
-  color: #000000;
+  color: #ffffff;
 }
 img {
   border-style: solid;
