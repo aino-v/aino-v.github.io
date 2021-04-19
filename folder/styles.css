@@ -10,6 +10,10 @@ h1 {
 }
 p {
   font-size: 20px;
+  background-color: #f5e4c6;
+  border-style: dotted;
+  border-width: 2px ;
+  border-radius: 15px;
 }
 div.kuvat {
   border-style: dotted;
@@ -30,7 +34,7 @@ ul {
   margin: auto;
 }
 a:link {
- color: #ffffff;
+ color: #85755a;
 }
 a:hover {
   color: #000000;
