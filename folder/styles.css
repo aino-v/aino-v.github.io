@@ -1,6 +1,8 @@
 body {
-  background-image: url("img_landscape.jpg"); color: #000000;
-text-align:center;
+  background-image: url("img_landscape.jpg");
+  background-position: center;
+  color: #000000;
+  text-align:center;
 }
 h1 {
   font-size: 20px;
