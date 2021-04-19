@@ -44,6 +44,8 @@ a {
 a:hover {
   color: #ffffff;
 }
+a:visited: #000000;
+}
 img {
   border-style: solid;
   border-width: 1px;
