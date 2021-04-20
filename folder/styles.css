@@ -52,11 +52,11 @@ ul {
 a {
  color: #ffffff;
 }
-a:hover {
-  color: #000000;
-}
 a:visited {
   color: #ffffff;
+}
+a:hover {
+  color: #000000;
 }
 img {
   border-style: solid;
