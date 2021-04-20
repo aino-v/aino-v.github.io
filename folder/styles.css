@@ -34,6 +34,7 @@ div.kuvat {
   height: 30px;
   margin: auto;
   text-align: center;
+  padding: 5px 5px 5px 5px;
 }
 div.listaa {
   list-style-type: lower-alpha;
