@@ -1,6 +1,6 @@
 body {
   background-image: url("img_landscape.jpg");
-  Background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: auto;
@@ -19,14 +19,14 @@ h2 {
   margin: auto;
 }
 p {
-  font-size: 20px;
+  font-size: 18px;
   width: 600px;
   text-align: center;
   background-color: #323b4a;
   border-style: solid;
-  border-width: 1px ;
+  border-width: 1px;
   border-radius: 15px;
-  padding: 10px 10px 10px 10px;
+  padding: 15px 10px 15px 10px;
   margin: auto;
 }
 div.kuvat {
@@ -39,13 +39,13 @@ div.kuvat {
 }
 ol {
   list-style-type: lower-alpha;
-  text-align: center;
+  text-align: left;
   margin: auto;
   width: 200px;
 }
 ul {
   list-style-type: square;
-  text-align: center;
+  text-align: left;
   margin: auto;
   width: 200px;
 }
