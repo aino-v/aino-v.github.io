@@ -3,6 +3,7 @@ body {
   Background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+  background-size: auto;
   color: #ffffff;
   text-align:center;
 }
