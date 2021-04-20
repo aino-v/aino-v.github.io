@@ -2,6 +2,7 @@ body {
   background-image: url("img_landscape.jpg");
   Background-repeat: no-repeat;
   background-position: center;
+  background-attachment: fixed;
   color: #ffffff;
   text-align:center;
 }
