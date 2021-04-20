@@ -38,12 +38,12 @@ div.kuvat {
   text-align: center;
   padding: 5px 5px 5px 5px;
 }
-div.listaa {
+ol {
   list-style-type: lower-alpha;
   text-align: center;
-  margin: auto;
+  margin: center;
 }
-div.listab {
+ul {
   list-style-type: square;
   text-align: center;
   margin: auto;
