@@ -35,17 +35,19 @@ div.kuvat {
   margin: auto;
   text-align: center;
   padding: 5px 5px 5px 5px;
-  width: 200px
+  width: 200px;
 }
 ol {
   list-style-type: lower-alpha;
   text-align: center;
   margin: center;
+  width: 200px;
 }
 ul {
   list-style-type: square;
   text-align: center;
   margin: auto;
+  width: 200px;
 }
 a {
  color: #ffffff;
