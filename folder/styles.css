@@ -35,12 +35,12 @@ div.kuvat {
   margin: auto;
   text-align: center;
 }
-div.ol {
+div.listaa {
   list-style-type: lower-alpha;
   text-align: center;
   margin: auto;
 }
-div.ul {
+div.listab {
   list-style-type: square;
   text-align: center;
   margin: auto;
