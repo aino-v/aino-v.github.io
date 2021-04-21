@@ -87,6 +87,11 @@ progress {
   width: 70%;
   background-color: #B953E6;
 }
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 #aside {
   background-color: #158275;
 }
