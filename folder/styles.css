@@ -82,7 +82,7 @@ progress {
   list-style-type: none;
 }
 #column {
-  width: 70%;
+  width: auto;
 }
 #section {
   background-color: #A8BBDF
