@@ -79,12 +79,13 @@ progress {
 }
 #navsecond {
   float: left;
-  height: 300px;
+  height: 100px;
   width: 30%;
+  padding-top: 20px;
 }
 #column {
   float: left;
-  height: 300px;
+  height: 100px;
   width: 70%;
 }
 #section {
