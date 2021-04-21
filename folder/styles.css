@@ -51,12 +51,15 @@ ul {
 }
 a {
  color: #ffffff;
+  text-decoration: none;
 }
 a:visited {
   color: #ffffff;
+  text-decoration: none;
 }
 a:hover {
   color: #ff0000;
+  text-decoration: none;
 }
 img {
   border-style: solid;
@@ -72,12 +75,10 @@ progress {
 }
 #nav {
   background-color: #182F5C;
-  text-decoration: none;
 }
 #navsecond {
   float: left;
   width: 30%;
-  text-decoration: none;
 }
 #column {
   width: auto;
