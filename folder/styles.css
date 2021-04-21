@@ -22,7 +22,6 @@ h2 {
 }
 p {
   font-size: 18px;
-  width: 600px;
   text-align: center;
   background-color: #323b4a;
   border-style: solid;
@@ -81,14 +80,14 @@ progress {
 #navsecond {
   color: #39A1F7;
   float: left;
-  height: 100px;
-  width: 30%;
+  height: 200px;
+  width: 40%;
   padding-top: 20px;
 }
 #column {
   float: left;
-  height: 100px;
-  width: 70%;
+  height: 200px;
+  width: 60%;
 }
 #aside {
   background-color: #158275;
