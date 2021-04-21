@@ -44,7 +44,7 @@ ol {
   width: 200px;
 }
 ul {
-  list-style-type: square;
+  list-style-type: none;
   text-align: left;
   margin: auto;
   width: 200px;
@@ -78,7 +78,6 @@ progress {
   float: left;
   width: 30%;
   text-decoration: none;
-  list-style-type: none;
 }
 #column {
   width: auto;
