@@ -69,6 +69,7 @@ progress {
   padding-top: 20px;
 }
 #column {
+  background-color: #6537ED;
   float: auto;
   height: 400px;
   width: 60%;
@@ -77,6 +78,6 @@ progress {
   background-color: #158275;
 }
 #footer {
-  background-color: #0B2F45;
+  background-color: #37CAED;
   padding: 15px;
 }
