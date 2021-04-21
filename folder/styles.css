@@ -76,6 +76,7 @@ progress {
 }
 #navsecond {
   float: left;
+  width: 30%;
 }
 #section {
   background-color: #A8BBDF
