@@ -76,12 +76,14 @@ progress {
 }
 #nav {
   background-color: #182F5C;
+  padding: 20px;
 }
 #navvertical {
   float: left;
   width: 30%;
   height: 200px;
   background-color: #3590DB;
+  padding-top: 20px;
 }
 #section {
   background-color: #A8BBDF;
@@ -99,7 +101,9 @@ progress {
 }
 #aside {
   background-color: #158275;
+  padding: 20px;
 }
 #footer {
   background-color: #0B2F45;
+  padding: 20px;
 }
