@@ -76,6 +76,7 @@ progress {
 }
 #navvertical {
   float: left;
+  width: 30%;
   background-color: #3590DB;
 }
 #section {
@@ -83,6 +84,7 @@ progress {
 }
 #article {
   float: left;
+  width: 70%;
   background-color: #B953E6;
 }
 #aside {
