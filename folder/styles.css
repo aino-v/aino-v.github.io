@@ -78,6 +78,9 @@ progress {
   float: left;
   width: 30%;
 }
+#column {
+  width; 
+}
 #section {
   background-color: #A8BBDF
 }
