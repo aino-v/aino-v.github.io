@@ -73,6 +73,7 @@ progress {
 }
 #nav {
   background-color: #182F5C;
+  float: left;
 }
 #section {
   background-color: #A8BBDF
