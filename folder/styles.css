@@ -69,7 +69,7 @@ progress {
   padding-top: 20px;
 }
 #column {
-  float: right;
+  float: auto;
   height: 400px;
   width: 60%;
 }
