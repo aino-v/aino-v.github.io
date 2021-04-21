@@ -77,6 +77,7 @@ progress {
 #navvertical {
   float: left;
   width: 30%;
+  height: 200px;
   background-color: #3590DB;
 }
 #section {
@@ -85,6 +86,7 @@ progress {
 #article {
   float: left;
   width: 70%;
+  height: 200px;
   background-color: #B953E6;
 }
 .clearfix::after {
