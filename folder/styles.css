@@ -79,6 +79,7 @@ progress {
 }
 #navsecond {
   float: left;
+  height: 300px;
   width: 30%;
 }
 #column {
