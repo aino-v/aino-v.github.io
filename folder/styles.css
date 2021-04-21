@@ -85,7 +85,7 @@ progress {
   padding-top: 20px;
 }
 #column {
-  float: left;
+  float: right;
   height: 400px;
   width: 60%;
 }
