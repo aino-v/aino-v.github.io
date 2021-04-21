@@ -80,13 +80,13 @@ progress {
 #navsecond {
   color: #39A1F7;
   float: left;
-  height: 200px;
+  height: 400px;
   width: 40%;
   padding-top: 20px;
 }
 #column {
   float: left;
-  height: 200px;
+  height: 400px;
   width: 60%;
 }
 #aside {
