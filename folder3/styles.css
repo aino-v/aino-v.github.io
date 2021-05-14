@@ -14,3 +14,9 @@ h3 {
 ul.nav {
   text-align: center;
 }
+.nav {
+    border-right: 1px solid red;
+}
+.nav li:last-child {
+    border: none;
+}
