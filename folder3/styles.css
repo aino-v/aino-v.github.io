@@ -12,6 +12,5 @@ h3 {
   text-align: center;
 }
 .nav {
-display: inline-block;
-float: none;
+text-align: center;
 }
