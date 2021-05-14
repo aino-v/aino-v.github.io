@@ -11,10 +11,10 @@ h2 {
 h3 {
   text-align: center;
 }
-ul.nav {
+div.nav {
   text-align: center;
 }
-ul.nav li {
+div.nav li {
    display:inline;
 }
 .nav {
