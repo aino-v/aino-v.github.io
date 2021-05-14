@@ -1,5 +1,5 @@
 ul.nav {
-  margin: auto;
+  position: absolute;
 }
 p {
   text-align: center;
