@@ -17,8 +17,8 @@ div.nav {
 div.nav li {
    display:inline;
 }
-.nav {
-    border-right: 1px solid red;
+.nav li {
+    border-right: 1px solid;
 }
 .nav li:last-child {
     border: none;
