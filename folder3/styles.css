@@ -12,10 +12,7 @@ h3 {
   text-align: center;
 }
 div.nav {
-  text-align: center;
-}
-div.nav li {
-   display: inline;
+  margin: auto;
 }
 .nav li {
     border-right: 1px solid;
