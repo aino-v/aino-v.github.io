@@ -11,9 +11,6 @@ h2 {
 h3 {
   text-align: center;
 }
-div.nav {
-  margin: auto;
-}
 .nav li {
     border-right: 1px solid;
 }
