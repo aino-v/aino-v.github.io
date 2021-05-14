@@ -15,9 +15,6 @@ h3 {
   margin: auto;
 }
 .nav li {
-  block: inline;
-}
-.nav li {
     border-right: 1px solid;
 }
 .nav li:last-child {
