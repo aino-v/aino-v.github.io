@@ -11,4 +11,7 @@ h2 {
 h3 {
   text-align: center;
 }
-
+.nav {
+display: inline-block;
+float: none;
+}
