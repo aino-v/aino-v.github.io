@@ -1,9 +1,5 @@
 .nav {
-  position: center;
-}
-
-footer {
-  text-align: center;
+  margin: auto;
 }
 p {
   text-align: center;
@@ -17,4 +13,7 @@ h2 {
 
 h3 {
   text-align: center;
+}
+footer {
+  margin: auto;
 }
