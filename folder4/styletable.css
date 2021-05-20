@@ -10,7 +10,7 @@ body
   font-size: 30px;
   color: #D95404;
 }
-table, th, td
+table
 {
   border: 1px solid #000000;
   border-collapse: collapse;
