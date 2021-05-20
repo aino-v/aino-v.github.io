@@ -50,16 +50,20 @@
           
           <h2>Tilaa kasvikset kotiin!</h2>
           <form>
+           
+            <fieldset>
+              <legend>Yhteystiedot</legend>
             <label for="fname">Etunimi:</label><br>
-  <input type="text" id="etunimi" name="fname" required><br>
+  <input type="text" id="fname" name="fname" required><br>
               <label for="lname">Sukunimi:</label><br>
-  <input type="text" id="sukunimi" name="lname" required><br>
+  <input type="text" id="lname" name="lname" required><br>
              <label for="email">Sähköpostisi:</label><br>
   <input type="email" id="email" name="email" required>
+             </fieldset>
             
             <h3>Toimitustapa</h3>
               <label for="toimitustapa">Valitse toimitustapa:</label>
-  <select id="toimitus" name="toimitus">
+  <select id="toimitustapa" name="toimitus">
     <option value="kotiin">Kotiinkuljetus</option>
     <option value="nouto">Nouto tilalta</option>
   </select>
