@@ -22,3 +22,11 @@ h3
   background-repeat: no-repeat;
   background-size: cover;
 }
+a:link
+{
+  color: #000000;
+}
+a:hover
+{
+  color: #00ff00;
+}
