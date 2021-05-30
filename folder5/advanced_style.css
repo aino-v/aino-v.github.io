@@ -43,7 +43,7 @@ a:hover
 {
   color: #00ff00;
 }
-@media screen and (max-width; 800px)
+@media screen (max-width; 800px)
 {
   body
   {
