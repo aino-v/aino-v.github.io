@@ -17,6 +17,7 @@ h3
 }
 #tausta
 {
+  border: solid 1px;
   background: url(bali.jpg);
   background-repeat: no-repeat;
   background-size: cover;
