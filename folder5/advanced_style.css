@@ -8,5 +8,6 @@ body
 #box
 {
   border: solid 1px;
+  padding: 10px;
   box-shadow: 5px 10px;
 }
