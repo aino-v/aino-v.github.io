@@ -25,6 +25,7 @@ h3
 a:link
 {
   color: #000000;
+  transition: 2s;
 }
 a:hover
 {
