@@ -31,3 +31,7 @@ a:hover
 {
   color: #00ff00;
 }
+a:visited
+{
+  color: #000000;
+}
