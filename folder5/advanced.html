@@ -2,20 +2,81 @@
 <html lang="fi-fi">
   <head>
      <meta charset="utf-8">
-    <title>Sisustus Koillinen</title>
-  </head>
-<body style="background-color:linen; font-family: arial; text-align:center;">
-
-<h1 style="color:rgba(255, 99, 71, 0.5);">Sisustus Koillinen</h1>
-  <h2 style="border-style:dotted;">Kaikkea kaunista kotiin</h2>
-  
-      <p>Tervetuloa tutustumaan Sisustus Koillisen sivuille!</p>
-    
-    <p><em>Luonnonmateriaalit, viihtyisyys ja ripaus Feng Shuita</em>
-  </p>
-  <div>Sisustamisessa minulle tärkeintä on käytännöllisyys ja visuaalisuus. <br>
-    Kaikki lähtee käytännöllisyydestä: mihin ongelmaan tarvitaan ratkaisu, mitä tarvittavat toiminnot ovat? <br>
-    Tämän jälkeen pyrin löytämään visuaalisesti kauneimman ratkaisun.</div>
-
-</body>
-</html> 
+    <link rel="stylesheet" href="styletable.css">
+    <title>Table</title>
+      </head>
+        <body>
+          <table>
+            <caption id="caption">Viljelykasvit 2021</caption>
+          <br>
+            <tr>
+              <th>Kasvilaji</th>
+                <th>Istutusaika</th>
+              <th>Myyntiaika</th>
+            </tr>
+            
+            <tr>
+              <td>Porkkana</td>
+                <td rowspan="2">Toukokuu</td>
+                  <td rowspan="2">Heinäkuu</td>
+            </tr>
+   
+               <tr>
+                 <td>Sipuli</td>
+            </tr>
+            <tr>
+              <td>Kurkku</td>
+                <td>Kesäkuu</td>
+                  <td>Elokuu</td>
+            </tr>
+            <tr>
+              <td>Pinaatti</td>
+                <td>Kesäkuu</td>
+                  <td>Elokuu</td>
+            </tr>
+            <tr>
+              <td>Salaatti</td>
+                <td>Toukokuu</td>
+                  <td>Kesäkuu</td>
+            </tr>
+            <tr>
+              <td>Samettikukka</td>
+                <td>Toukokuu</td>
+                  <td>Kesäkuu</td>
+            </tr>
+          </table>
+          <br>
+          <br>
+          
+          <h2>Tilaa kasvikset kotiin!</h2>
+          <form>
+           
+            <fieldset>
+              <legend>Yhteystiedot</legend>
+            <label for="fname">Etunimi:</label><br>
+  <input type="text" id="fname" name="fname" required><br>
+              <label for="lname">Sukunimi:</label><br>
+  <input type="text" id="lname" name="lname" required><br>
+             <label for="email">Sähköposti:</label><br>
+  <input type="email" id="email" name="email" required>
+             </fieldset>
+            
+            <h3>Toimitustapa</h3>
+              <label for="toimitustapa">Valitse toimitustapa:</label>
+  <select id="toimitustapa" name="toimitus">
+    <option value="kotiin">Kotiinkuljetus</option>
+    <option value="nouto">Nouto tilalta</option>
+  </select>
+            
+            <h3>Kirjoita viesti</h3>
+            <textarea name="message" rows="4" cols="80">
+                      </textarea>
+            
+            <h3>Tilaa uutiskirje</h3>
+           <label for="uutiskirje">Tilaa uutiskirje</label><br>
+             <input type="checkbox" id="uutiskirje" name="uutiskirje"><br>
+                                  <br>
+                                  <input type="submit" value="Lähetä tilaus!">
+          </form>
+    </body>
+</html>
