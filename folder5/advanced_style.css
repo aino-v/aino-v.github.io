@@ -22,6 +22,14 @@ h3
   background-repeat: no-repeat;
   background-size: cover;
 }
+#otsikko
+{
+  color: #ffffff;
+}
+#teksti
+{
+  color: #ffffff;
+}
 a:link
 {
   color: #000000;
