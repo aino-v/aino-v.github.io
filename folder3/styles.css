@@ -25,6 +25,7 @@ h5 {
 }
 .button {
 background-color: #ffffff;
+  color: #000000;
   border: 1px solid #c8cfdf;
   text-align: center;
   padding: 15px 32px;
