@@ -49,6 +49,35 @@
 	  <h5>Lähetä viestiä ja seuraa somessa!</h5>
       <br>
       <p>Voit lähettää minulle viestiä alla olevalla lomakkeella.</p>
+	    <form>
+           
+            <fieldset>
+              <legend>Yhteystiedot</legend>
+            <label for="fname">Etunimi:</label><br>
+  <input type="text" id="fname" name="fname" required><br>
+              <label for="lname">Sukunimi:</label><br>
+  <input type="text" id="lname" name="lname" required><br>
+             <label for="email">Sähköposti:</label><br>
+  <input type="email" id="email" name="email" required>
+             </fieldset>
+            
+            <h3>Toimitustapa</h3>
+              <label for="toimitustapa">Valitse toimitustapa:</label>
+  <select id="toimitustapa" name="toimitus">
+    <option value="kotiin">Kotiinkuljetus</option>
+    <option value="nouto">Nouto tilalta</option>
+  </select>
+            
+            <h3>Kirjoita viesti</h3>
+            <textarea name="message" rows="4" cols="80">
+                      </textarea>
+            
+            <h3>Tilaa uutiskirje</h3>
+           <label for="uutiskirje">Tilaa uutiskirje</label><br>
+             <input type="checkbox" id="uutiskirje" name="uutiskirje"><br>
+                                  <br>
+                                  <input type="submit" value="Lähetä tilaus!">
+          </form>
 	    <h5>Seuraa Instagramissa!</h5>
 	    <br>
 	 <a href="http://www.instagram.com/ovi_koilliseen" class="button">Instagram</a>
