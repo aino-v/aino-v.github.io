@@ -37,3 +37,10 @@ background-color: #ffffff;
   background-color: #c8cfdf;
   
 }
+a {
+  color: #000000;
+  
+}
+a:hover {
+  color: #888888;
+}
