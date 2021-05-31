@@ -23,3 +23,12 @@ h5 {
 .nav li:last-child {
     border: none;
 }
+.button {
+background-color: #ffffff;
+  border: 1px solid #c8cfdf;
+ 
+}
+.button:hover {
+  background-color: #c8cfdf;
+  
+}
