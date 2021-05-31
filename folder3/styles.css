@@ -24,7 +24,7 @@ h5 {
     border: none;
 }
 .button {
-background-color: #ffffff;
+background-color: #c8cfdf;
   color: #000000;
   border: 1px solid #c8cfdf;
   text-align: center;
@@ -34,7 +34,7 @@ background-color: #ffffff;
  
 }
 .button:hover {
-  background-color: #c8cfdf;
+  background-color: #ffffff;
   color: #000000;
   text-decoration: none;
   
