@@ -34,6 +34,8 @@ background-color: #ffffff;
 }
 .button:hover {
   background-color: #c8cfdf;
+  color: #000000;
+  text-decoration: none;
   
 }
 a {
