@@ -1,0 +1,73 @@
+
+.row {
+    margin-bottom: 30px;
+    margin-top: 40px;
+
+}
+.navbar-nav {
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #3b6484;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    padding-right: 10px;
+
+}
+a:link {
+    color: black;
+    
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: grey;
+  
+}
+
+.insta {
+    margin: 0 auto;
+}
+.bg {
+    background-color: rgb(248, 245, 241);
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.bg2 {
+    background-color: rgb(248, 245, 241);
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.btn-light {
+    color: white;
+    background-color: #3b6484;
+}
+.section {
+    padding-bottom: 60px;
+}
+.bg3 {
+    background-color: rgb(254, 253, 251);
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.figure-caption {
+    padding-top: 15px;
+}
+.link2 {
+    text-decoration: none;
+}
