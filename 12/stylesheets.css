@@ -52,7 +52,7 @@ a:hover {
     background-color: rgb(248, 245, 241);
     padding-top: 20px;
     padding-bottom: 40px;
-     box-shadow: 2px 2px 43px #bbbbbb;
+    box-shadow: 2px 2px 43px #bbbbbb;
 }
 .btn-light {
     color: white;
