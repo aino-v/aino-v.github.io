@@ -38,7 +38,6 @@ a:visited {
 }
 a:hover {
     color: grey;
-  
 }
 
 .insta {
@@ -73,5 +72,5 @@ a:hover {
     text-decoration: none;
 }
 .img-shadow {
-    box-shadow: 2px 2px 43px #ffffff;
+    box-shadow: 2px 2px 43px #bbbbbb;
 }
